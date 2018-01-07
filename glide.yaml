@@ -10,5 +10,5 @@ import:
   - core/vm
   - ethdb
   - event
-  - logger/glog
+- package: github.com/golang/glog
 - package: gopkg.in/urfave/cli.v1
